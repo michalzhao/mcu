@@ -1,4 +1,5 @@
 #include <msp430.h>
+//copied from https://github.com/jaspreetsingh009/webui_msp430/blob/master/launchpad%20code/main.c
 
 //Pin Definitions
 #define ACC_PWR_PIN       BIT7
